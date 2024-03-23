@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/msanand3/MyApp.git/static/css/main.b3a14c9d.css",
+    "main.js": "/msanand3/MyApp.git/static/js/main.8a7e81a5.js",
+    "static/media/MA.png": "/msanand3/MyApp.git/static/media/MA.45b7a09fa60fc359d49b.png",
+    "static/media/Portfolio.png": "/msanand3/MyApp.git/static/media/Portfolio.53e250c4b7b31fcc568d.png",
+    "index.html": "/msanand3/MyApp.git/index.html",
+    "main.b3a14c9d.css.map": "/msanand3/MyApp.git/static/css/main.b3a14c9d.css.map",
+    "main.8a7e81a5.js.map": "/msanand3/MyApp.git/static/js/main.8a7e81a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3a14c9d.css",
+    "static/js/main.8a7e81a5.js"
+  ]
+}
