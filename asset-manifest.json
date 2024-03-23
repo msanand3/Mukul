@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Mukul/static/css/main.5690d842.css",
+    "main.js": "/Mukul/static/js/main.a8a7966b.js",
+    "static/media/MA.png": "/Mukul/static/media/MA.45b7a09fa60fc359d49b.png",
+    "static/media/Portfolio.png": "/Mukul/static/media/Portfolio.53e250c4b7b31fcc568d.png",
+    "static/media/primera.png": "/Mukul/static/media/primera.35c8de4ebaf1d4108f05.png",
+    "index.html": "/Mukul/index.html",
+    "main.5690d842.css.map": "/Mukul/static/css/main.5690d842.css.map",
+    "main.a8a7966b.js.map": "/Mukul/static/js/main.a8a7966b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5690d842.css",
+    "static/js/main.a8a7966b.js"
+  ]
+}
